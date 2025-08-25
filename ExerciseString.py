@@ -46,14 +46,6 @@ print(s.replace('200', '10'))
 s = 'maine 200 banana khaye'
 print(s.replace('banana', 'samosa').replace('200', '10'))
 
-#-----------------------------------------------------------------------------------------------------------------
-#LISTS
-#Let us say your expense for every month are listed below,
 
-#    January - 2200
-#    February - 2350
-#    March - 2600
-#    April - 2130
-#    May - 2190
 
 
