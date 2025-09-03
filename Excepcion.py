@@ -5,5 +5,4 @@ try:
 except Exception as e:
     print("Exception ocurred: ",e)
     z = None
-
 print("Division is: ", z)
