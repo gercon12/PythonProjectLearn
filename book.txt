@@ -1,0 +1,1 @@
+{"tom": {"name": "tom", "address": "1 red street NY", "phone": 98989898}, "bob": {"name": "bob", "address": "1 green street NY", "phone": 23424234}, "german": {"name": "german", "address": "proy. sta maria la paz 2", "phone": 85236975}, "erick": {"name": "erick", "address": "14 street zona 14", "phone": 12635689}}
